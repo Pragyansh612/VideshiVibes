@@ -1,2 +1,5 @@
 # VideshiVibes
- Youtube Clone made by React which gets their video data from MongoDB.
+ YouTube Clone is made by React.
+
+To run it, paste this command into your code editor terminal - 
+npm run dev
